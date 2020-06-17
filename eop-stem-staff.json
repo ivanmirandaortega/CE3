@@ -1,1 +1,37 @@
+[{
+        "name": "Cara Ip",
+        "major": "Computer Science Major",
+        "hometown": "Millbrae, CA",
+        "img_url": "/s/cara-ip.jpg",
+        "link_url": "/cara-ip"
+    },
+    {
+        "name": "Maia Hito",
+        "major": "Intended Cognitive Science",
+        "hometown": "Sylmar, CA & Brookline, MA",
+        "img_url": "/s/leslie-gutierrez.jpg",
+        "link_url": "/maia-hito"
+    },
+    {
+        "name": "Rodrigo Enrique Leiva",
+        "major": "Data Science & History",
+        "hometown": "Los Angeles / San Salvador",
+        "img_url": "/s/alejandro-murcio-reyes.jpg",
+        "link_url": "/rodrigo-enrique-leiva"
+    },
+    {
+        "name": "Marina Norfolk",
+        "major": "Molecular and Cell Biology: Immunology and Pathogenesis",
+        "hometown": "Menifee",
+        "img_url": "/s/paola-martinez.jpg",
+        "link_url": "/marina-norfolk"
+    },
+    {
+        "name": "Jackie Wang",
+        "major": "Astrophysics & Business, Data Science Minor",
+        "hometown": "Fontana, CA",
+        "img_url": "/s/fernanda-sanchez-moreno.jpg",
+        "link_url": "/jackie-wang"
+    }
+]
 
