@@ -16,21 +16,21 @@
         "name": "Rodrigo Enrique Leiva",
         "major": "Data Science & History",
         "hometown": "Los Angeles / San Salvador",
-        "img_url": "/s/alejandro-murcio-reyes.jpg",
+        "img_url": "/s/rodrigo-enrique-leiva.jpg",
         "link_url": "/rodrigo-enrique-leiva"
     },
     {
         "name": "Marina Norfolk",
         "major": "Molecular and Cell Biology: Immunology and Pathogenesis",
         "hometown": "Menifee, CA",
-        "img_url": "/s/paola-martinez.jpg",
+        "img_url": "/s/marina-norfolk.jpg",
         "link_url": "/marina-norfolk"
     },
     {
         "name": "Jackie Wang",
         "major": "Astrophysics & Business, Data Science Minor",
         "hometown": "Fontana, CA",
-        "img_url": "/s/fernanda-sanchez-moreno.jpg",
+        "img_url": "/s/jackie-wang.jpg",
         "link_url": "/jackie-wang"
     }
 ]
